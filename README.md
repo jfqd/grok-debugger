@@ -13,3 +13,10 @@ This client-side application uses WebAssembly to run PCRE RegEx in the browser. 
 
 
 ![screenshot](screenshot.png)
+
+To run the project locally run:
+
+```
+npm install
+npm start
+```
